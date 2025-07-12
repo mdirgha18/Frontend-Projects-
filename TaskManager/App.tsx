@@ -10,3 +10,14 @@ const App: React.FC = () => {
 };
 
 export default App;
+
+// 🌟 Optional Upgrades
+// Save tasks to localStorage
+
+// Add due dates or categories
+
+// Drag and drop reordering
+
+// Add animations with framer-motion
+
+// Filter (all / active / completed)
